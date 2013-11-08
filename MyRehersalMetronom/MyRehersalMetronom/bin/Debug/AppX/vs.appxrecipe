@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ICHO-LAP</Machine>
+    <WindowsUser>Icho</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C59CC0365477A3CA4A67F1564E826FAA0D903EEDC1D442BF440C55497B8C48D3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a9cbcdeb-8611-4801-afcf-0024bd203da9_1.0.0.0_neutral__pb6z60mj8zr4m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a9cbcdeb-8611-4801-afcf-0024bd203da9_pb6z60mj8zr4m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a9cbcdeb-8611-4801-afcf-0024bd203da9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Icho</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-11-03T15:22:19.417</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\bin\Debug\MyRehersalMetronom.exe">
+      <PackagePath>MyRehersalMetronom.exe</PackagePath>
+      <Modified>2013-11-03T15:22:19.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\bin\Debug\MyRehersalMetronom.pdb">
+      <PackagePath>MyRehersalMetronom.pdb</PackagePath>
+      <Modified>2013-11-03T15:22:19.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-09-30T09:35:07.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-09-30T15:24:20.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-10-31T20:05:33.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\bin\Debug\Pages\HomePage.xaml">
+      <PackagePath>Pages\HomePage.xaml</PackagePath>
+      <Modified>2013-11-03T13:58:49.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\bin\Debug\Pages\RehersalPage.xaml">
+      <PackagePath>Pages\RehersalPage.xaml</PackagePath>
+      <Modified>2013-11-03T15:22:11.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\bin\Debug\Pages\TimeBarPage.xaml">
+      <PackagePath>Pages\TimeBarPage.xaml</PackagePath>
+      <Modified>2013-10-02T22:53:47.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\Telerik Academy\Desktop and Mobile\Win 8 XAML\W8X Projects\MyRehersalMetronom\MyRehersalMetronom\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-04T19:26:47.226</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
